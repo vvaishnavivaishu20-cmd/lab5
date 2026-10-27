@@ -1,1 +1,1 @@
-"Base setup for collaboration" 
+Base setup for collaboration
